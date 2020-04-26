@@ -1,0 +1,342 @@
+html{
+    background-image: url(../images/background.jpg);
+}
+
+body header{
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    height: 4em;
+}
+
+nav{
+    background-color: forestgreen;
+    padding: 5px;
+	border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color: lightgrey;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color: skyblue;
+}
+
+#mainStory {
+    background-color: forestgreen;
+    width: 50%;
+    height: 26.35em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
+
+#mainStory a{
+    padding-left: 5px;
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+}
+
+#redbull {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 4px;
+    margin-left: 55px;
+}
+
+h2{
+    font-size: 25px;
+    margin: 5px;
+}
+
+h3{
+    padding: 2px;
+    margin: 2px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+    margin: 5px
+}
+
+
+
+#football {
+    background-color: forestgreen;
+    width: 21%;
+    height: 14em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#football a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#arsenal {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 95%;
+    height: 65%;
+}
+
+#boxing {
+    background-color: forestgreen;
+    width: 19%;
+    height: 14em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#boxing a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#fury {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 95%;;
+    height: 65%;
+}
+
+#rugby {
+    background-color: forestgreen;
+    width: 42%;
+    height: 10.5em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#rugby a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#scotland {
+    float: right;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 50%;
+    height:95%;
+}
+
+.gototop {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    margin: 5px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 28.8em;
+}
+
+#table {
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right;
+}
+
+#premier_league {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+}
+
+#Map{
+	background-color: forestgreen;
+    width: 45%;
+    height: 26.35em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+iframe{
+	border: 2px solid white;
+    border-radius: 10px;
+    width: 95%;
+    height: 29%;
+}
+
+#videos {
+    background-color: forestgreen;
+    width: 20%;
+    height: 26.35em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+.contact {
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+    padding: 5px;
+    margin: 5px;
+}
+h6 {
+    text-align: center;
+    padding: 2px;
+    margin: 2px;
+    font-size: 20px;
+}
+
+#submit {
+    background-color: lightgrey;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+#submit:hover{
+    background-color: skyblue;
+}
+
+#reset {
+    background-color: lightgrey;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+#reset:hover{
+    background-color: skyblue;
+}
+article p {
+    float: right;
+}
+
+aside a{
+    color: black;
+    text-align: center;
+    margin-left: 5em;
+}
+
+
+#boxing_main {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+}
+
+#twitter {
+    background-color: forestgreen;
+    width: 45%;
+    height: 26.35em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right;
+}
+
+.required{
+	font-weight: bold;
+	color: red;
+}
+body {
+    font-family: serif;
+}
+
+#sixnations {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+}
+
+article {
+    background-color: forestgreen;
+    width: 45%;
+    height: auto;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right;
+}
+
+#column {
+    column-count: 2;
+	column-rule: 1px solid white;
+	column-fill: auto;
+	column-gap: 50px;
+	padding: 2px;
+	column-span: all;
+}
+
+#map {
+    width: 98%;
+    height: 90%;
+}
